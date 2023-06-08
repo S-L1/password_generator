@@ -13,18 +13,7 @@ Zusätzlich zu Python, werden auch die Python-Bibliotheken `math`, `PyQt6`, `ran
 
 **Wichtig:** Der Passwort-Generator generiert lediglich das Passwort, speichert es aber nirgends! Sobald das Ergebnisfenster geschlossen wurde, kann das gleiche Passwort nicht noch einmal aufgerufen, sondern nur ein neues erstellt werden.
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
-
-Diese Arbeit unterliegt den Bestimmungen einer
-[Creative Commons Namensnennung 4.0 International-Lizenz][cc-by].
-
 © 2023 Sandra Liedtke.
-
-[![CC BY 4.0][cc-by-image]][cc-by]
-
-[cc-by]: https://creativecommons.org/licenses/by/4.0/deed.de
-[cc-by-image]: https://licensebuttons.net/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 
 ## English Version
@@ -40,15 +29,4 @@ In addition to Python, also the Python libraries `math`, `PyQt6`, `random` and `
 
 **Important:** The Password Generator only generates the password, but does not save it anywhere! Once the result window is closed, the same password cannot be recalled again, but only a new password may be generated.
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
-
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
-
 © 2023 Sandra Liedtke.
-
-[![CC BY 4.0][cc-by-image]][cc-by]
-
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
