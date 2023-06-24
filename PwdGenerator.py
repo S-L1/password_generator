@@ -17,7 +17,7 @@ class PwdGenerator_UI(QtWidgets.QMainWindow):
         grid = QtWidgets.QGridLayout()
         widget.setLayout(grid)
         # row 0 with descriptions
-        desc_list = ['Set the lenght of the password to generate:', 'Password Character Options:', ' ']
+        desc_list = ['Set the length of the password to generate:', 'Password Character Options:', ' ']
         row = 0
         for desc in desc_list:
             lbl = QtWidgets.QLabel(desc)
