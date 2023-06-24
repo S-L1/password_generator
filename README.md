@@ -30,5 +30,5 @@ In addition to Python, also the Python libraries `math`, `PyQt6`, `random` and `
 
 **Important:** The Password Generator only generates the password, but does not save it anywhere! Once the result window is closed, the same password cannot be recalled again, but only a new password may be generated.
 
-Diese Arbeit unterliegt den Bestimmungen einer MIT-Lizenz.<br/>
+This work is licensed under an MIT License.<br/>
 © 2023 Sandra Liedtke.
